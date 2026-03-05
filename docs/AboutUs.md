@@ -27,7 +27,7 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Team Lead
 * Responsibilities: UI
 
-### Wang Junwei
+### Wang Junwei 
 
 <img src="images/wjunwei2001.png" width="200px">
 
